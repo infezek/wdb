@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "wdb",
+    "slug": "wdb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.infectiionz.wdb"
+    }
+  },
+  "name": "wdb"
+}
